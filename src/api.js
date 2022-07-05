@@ -1,8 +1,6 @@
-// const API_KEY = `${process.env.REACT_APP_API_KEY}`;
 import axios from "axios";
-
-const API_KEY = "78b0fe73a4a72f8aa99ea669e16dfc67";
-const APP_ID = "a65cd11b";
+const API_KEY = `${process.env.API_KEY}`;
+const APP_ID =`${process.env.APP_ID}`;
 const BASE_URL = "https://api.edamam.com/api/recipes/v2";
 
 export const getCocktail = async () => {
@@ -45,5 +43,5 @@ export const recipeDetail = async (recipeId) => {
     .get(
       `${BASE_URL}/${recipeId}?type=public&app_id=${APP_ID}&app_key=${API_KEY}`
     )
-    .then((response) => response.data)
+    .then((response) => response.data);
 };

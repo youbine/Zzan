@@ -4,7 +4,7 @@
 
 Web app created with `reactJS`, `Scss`, `firebase`.
 
-## Overview
+## Overview👀
 ![zzan_main](https://user-images.githubusercontent.com/87105502/177447363-b9fef33b-9937-435a-9be2-f2dfe1e0f7fa.gif)
 
 ## Tabel of contents

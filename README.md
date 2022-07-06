@@ -1,12 +1,10 @@
-# Getting Started with Create React App
+# Search Drink🍹🍸
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Web app created with reactJS, Scss, firebase.
 
-## Available Scripts
+### `login or sign in`
 
-In the project directory, you can run:
-
-### `npm start`
+fghfgh
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.

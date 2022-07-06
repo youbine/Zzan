@@ -1,13 +1,14 @@
 # Search Drink🍹🍸
 
-Web app created with reactJS, Scss, firebase.
+[login](#Login-or-Sign-in)
 
-### `login or sign in`
+Web app created with `reactJS`, `Scss`, `firebase`.
 
-fghfgh
+## Overview
+![zzan_main](https://user-images.githubusercontent.com/87105502/177447363-b9fef33b-9937-435a-9be2-f2dfe1e0f7fa.gif)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Login or Sign in
+![login](https://user-images.githubusercontent.com/87105502/177447943-ed99cf0f-9ff4-44a5-87fa-efa137fe9869.PNG)
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.

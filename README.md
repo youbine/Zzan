@@ -1,71 +1,35 @@
-# Search Drink🍹🍸
+# Search Drink🍹
 
-Web app created with `reactJS`, `Scss`, `firebase`.\
-
-##Tabel of contents
-
--[login](#Login-or-Sign-in)
+Web app created with `reactJS`, `Scss`, `firebase`.
 
 ## Overview
 ![zzan_main](https://user-images.githubusercontent.com/87105502/177447363-b9fef33b-9937-435a-9be2-f2dfe1e0f7fa.gif)
 
+## Tabel of contents
+
+- [Login](#Login-or-Sign-in)
+- [Main Page](#Main-Page)
+- [Search](#Search-Drink)
+- [Favorite](#Favorite-Page)
+
 ## Login or Sign in
 ![login](https://user-images.githubusercontent.com/87105502/177447943-ed99cf0f-9ff4-44a5-87fa-efa137fe9869.PNG)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Main Page
+![todayRecommended](https://user-images.githubusercontent.com/87105502/177449396-7aa99126-810d-4a8d-be40-202a453543b0.PNG)
 
-### `npm test`
+## Search Drink
+![search](https://user-images.githubusercontent.com/87105502/177450042-26a248a7-f8fe-4828-84ef-42ecf2c56958.PNG)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Search drink recipe by name, and add to my favorite.
+* Refresh button to load more drink recipes.
 
-### `npm run build`
+## Favorite Page
+![favorite](https://user-images.githubusercontent.com/87105502/177450651-a6d1a723-c874-4efe-a053-02085c366e2e.PNG)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* You can see the list of drink recipes that you added to favorite.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Moreinfo
+![moreInfo](https://user-images.githubusercontent.com/87105502/177450898-fc12b99d-37ba-47ce-8388-3f7f8000fb5a.PNG)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Press the "more info" button to see more information about the recipe of drink.

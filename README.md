@@ -5,7 +5,7 @@
 Web app created with `reactJS`, `Scss`, `firebase`.
 
 ## Overview👀
-![zzan_main](https://user-images.githubusercontent.com/87105502/177447363-b9fef33b-9937-435a-9be2-f2dfe1e0f7fa.gif)
+![zzan_main](https://user-images.githubusercontent.com/87105502/177947787-290c3bb2-704f-46cd-84e4-548297daf368.gif)
 
 ## Tabel of contents
 
@@ -15,7 +15,7 @@ Web app created with `reactJS`, `Scss`, `firebase`.
 [Favorite](#Favorite-Page)<br/> 
 
 ## Login or Sign in
-![login](https://user-images.githubusercontent.com/87105502/177447943-ed99cf0f-9ff4-44a5-87fa-efa137fe9869.PNG)
+![login](https://user-images.githubusercontent.com/87105502/177948018-5709b977-cc03-4be5-93c6-5431d67f3e3e.png)
 
 ## Main Page
 ![todayRecommended](https://user-images.githubusercontent.com/87105502/177449396-7aa99126-810d-4a8d-be40-202a453543b0.PNG)

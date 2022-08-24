@@ -18,21 +18,16 @@ Web app created with `reactJS`, `Scss`, `firebase`.
 ![login](https://user-images.githubusercontent.com/87105502/182022869-f29c6a80-77e9-4870-a7d6-3d711e811a14.png)
 
 ## Main Page
-![todayRecommended](https://user-images.githubusercontent.com/87105502/182022885-9c4ca767-c3c5-423c-a493-8fc0624ce145.PNG)
+![todayRecommended](https://user-images.githubusercontent.com/87105502/186352993-0ef876f3-89c2-443b-abd9-fe817600656d.png)
 
 ## Search Drink
-![search](https://user-images.githubusercontent.com/87105502/182022889-cecd7697-6bb2-4532-8ab4-04adeb10471b.PNG)
+![search](https://user-images.githubusercontent.com/87105502/186353055-d109baaf-2ab0-4cf3-9a6e-26ad3fc3125c.PNG)
 
 Search drink recipe by name, and add to my favorite.<br/> 
 Refresh button to load more drink recipes.
 
 ## Favorite Page
-![favorite](https://user-images.githubusercontent.com/87105502/182022888-0c0103e8-7614-4144-9625-c998e8e2a45b.PNG)
+![favorite](https://user-images.githubusercontent.com/87105502/186352505-e4ffadcf-9703-4316-87d2-8ded53656392.PNG)
 
 You can see the list of drink recipes that you added to favorite.
-
-## Moreinfo
-![moreInfo](https://user-images.githubusercontent.com/87105502/182022877-02ca0023-d05e-486b-829f-304beb35f73c.PNG)
-
-Press the "more info" button to see more information about the recipe of drink.
  </div>
